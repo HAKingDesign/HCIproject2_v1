@@ -5,4 +5,5 @@
 - Thus, most information is behind simple to access tabs so that the user can chose to what information they want. 
 - Additionally, I placed all interactable content to wards the lower 3rd of the interface as to not need users to strain to reach elements.
 - I placed the date, time, and weather information towards the top of the interface as it is unlikely to need to be interacted with.
+- I also added an option to hide all information if the user chooses to.
 ![GIF](/p2.hunter.king/assets/p2.hunter.king.gif)
