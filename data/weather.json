@@ -1,0 +1,38 @@
+{
+    "0":{
+        "high":49,
+        "low":30,
+        "condition":"sunny"
+    },
+    "1":{
+        "high":53,
+        "low":32,
+        "condition":"sunny"
+    },
+    "2":{
+        "high":58,
+        "low":39,
+        "condition":"cloudy"
+    },
+    "3":{
+        "high":50,
+        "low":26,
+        "condition":"cloudy"
+    },
+    "4":{
+        "high":55,
+        "low":24,
+        "condition":"sunny"
+    },
+    "5":{
+        "high":35,
+        "low":20,
+        "condition":"cloudy"
+    },
+    "6":{
+        "high":44,
+        "low":25,
+        "condition":"cloudy"
+    }
+    
+}
